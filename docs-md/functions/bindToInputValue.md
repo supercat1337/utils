@@ -26,4 +26,4 @@ Synchronizes the value of a reactive variable to the input's "value" property an
 
 ## Source
 
-dist/index.esm.d.ts:129
+[dist/index.esm.d.ts:129](https://github.com/supercat1337/utils/blob/29436ec24bee9f2e47444ecc42beedb601148283/dist/index.esm.d.ts#L129)

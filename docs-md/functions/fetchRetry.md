@@ -26,4 +26,4 @@ A version of the fetch function that allows you to specify the number of retries
 
 ## Source
 
-dist/index.esm.d.ts:196
+[dist/index.esm.d.ts:196](https://github.com/supercat1337/utils/blob/29436ec24bee9f2e47444ecc42beedb601148283/dist/index.esm.d.ts#L196)

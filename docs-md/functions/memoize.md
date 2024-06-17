@@ -24,4 +24,4 @@ An optimization used to speed up consecutive function calls by caching the resul
 
 ## Source
 
-dist/index.esm.d.ts:226
+[dist/index.esm.d.ts:226](https://github.com/supercat1337/utils/blob/29436ec24bee9f2e47444ecc42beedb601148283/dist/index.esm.d.ts#L226)

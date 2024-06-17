@@ -22,4 +22,4 @@ Returns the list item element by child node
 
 ## Source
 
-dist/index.esm.d.ts:213
+[dist/index.esm.d.ts:213](https://github.com/supercat1337/utils/blob/29436ec24bee9f2e47444ecc42beedb601148283/dist/index.esm.d.ts#L213)

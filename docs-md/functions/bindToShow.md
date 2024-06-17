@@ -28,4 +28,4 @@ Binds the value of a reactive variable to the element's visibility
 
 ## Source
 
-dist/index.esm.d.ts:167
+[dist/index.esm.d.ts:167](https://github.com/supercat1337/utils/blob/29436ec24bee9f2e47444ecc42beedb601148283/dist/index.esm.d.ts#L167)

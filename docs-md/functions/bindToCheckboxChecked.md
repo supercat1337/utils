@@ -24,4 +24,4 @@ Synchronizes the value of a reactive variable to the checkbox's "checked" proper
 
 ## Source
 
-dist/index.esm.d.ts:91
+[dist/index.esm.d.ts:91](https://github.com/supercat1337/utils/blob/29436ec24bee9f2e47444ecc42beedb601148283/dist/index.esm.d.ts#L91)

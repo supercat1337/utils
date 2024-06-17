@@ -26,4 +26,4 @@ Binds the length of a reactive collection to the element's "innerText" property
 
 ## Source
 
-dist/index.esm.d.ts:147
+[dist/index.esm.d.ts:147](https://github.com/supercat1337/utils/blob/29436ec24bee9f2e47444ecc42beedb601148283/dist/index.esm.d.ts#L147)

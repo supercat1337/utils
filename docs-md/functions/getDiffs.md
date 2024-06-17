@@ -28,4 +28,4 @@ Compares two objects and returns information about their differences
 
 ## Source
 
-dist/index.esm.d.ts:205
+[dist/index.esm.d.ts:205](https://github.com/supercat1337/utils/blob/29436ec24bee9f2e47444ecc42beedb601148283/dist/index.esm.d.ts#L205)

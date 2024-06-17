@@ -30,7 +30,7 @@ Chain
 
 #### Source
 
-dist/index.esm.d.ts:67
+[dist/index.esm.d.ts:67](https://github.com/supercat1337/utils/blob/29436ec24bee9f2e47444ecc42beedb601148283/dist/index.esm.d.ts#L67)
 
 ***
 
@@ -90,7 +90,7 @@ dist/index.esm.d.ts:67
 
 #### Source
 
-dist/index.esm.d.ts:24
+[dist/index.esm.d.ts:24](https://github.com/supercat1337/utils/blob/29436ec24bee9f2e47444ecc42beedb601148283/dist/index.esm.d.ts#L24)
 
 ***
 
@@ -150,7 +150,7 @@ dist/index.esm.d.ts:24
 
 #### Source
 
-dist/index.esm.d.ts:34
+[dist/index.esm.d.ts:34](https://github.com/supercat1337/utils/blob/29436ec24bee9f2e47444ecc42beedb601148283/dist/index.esm.d.ts#L34)
 
 ***
 
@@ -210,7 +210,7 @@ dist/index.esm.d.ts:34
 
 #### Source
 
-dist/index.esm.d.ts:14
+[dist/index.esm.d.ts:14](https://github.com/supercat1337/utils/blob/29436ec24bee9f2e47444ecc42beedb601148283/dist/index.esm.d.ts#L14)
 
 ## Accessors
 
@@ -224,7 +224,7 @@ dist/index.esm.d.ts:14
 
 #### Source
 
-dist/index.esm.d.ts:50
+[dist/index.esm.d.ts:50](https://github.com/supercat1337/utils/blob/29436ec24bee9f2e47444ecc42beedb601148283/dist/index.esm.d.ts#L50)
 
 ***
 
@@ -238,7 +238,7 @@ dist/index.esm.d.ts:50
 
 #### Source
 
-dist/index.esm.d.ts:49
+[dist/index.esm.d.ts:49](https://github.com/supercat1337/utils/blob/29436ec24bee9f2e47444ecc42beedb601148283/dist/index.esm.d.ts#L49)
 
 ## Methods
 
@@ -252,7 +252,7 @@ dist/index.esm.d.ts:49
 
 #### Source
 
-dist/index.esm.d.ts:59
+[dist/index.esm.d.ts:59](https://github.com/supercat1337/utils/blob/29436ec24bee9f2e47444ecc42beedb601148283/dist/index.esm.d.ts#L59)
 
 ***
 
@@ -270,7 +270,7 @@ dist/index.esm.d.ts:59
 
 #### Source
 
-dist/index.esm.d.ts:65
+[dist/index.esm.d.ts:65](https://github.com/supercat1337/utils/blob/29436ec24bee9f2e47444ecc42beedb601148283/dist/index.esm.d.ts#L65)
 
 ***
 
@@ -284,7 +284,7 @@ dist/index.esm.d.ts:65
 
 #### Source
 
-dist/index.esm.d.ts:66
+[dist/index.esm.d.ts:66](https://github.com/supercat1337/utils/blob/29436ec24bee9f2e47444ecc42beedb601148283/dist/index.esm.d.ts#L66)
 
 ***
 
@@ -302,7 +302,7 @@ dist/index.esm.d.ts:66
 
 #### Source
 
-dist/index.esm.d.ts:56
+[dist/index.esm.d.ts:56](https://github.com/supercat1337/utils/blob/29436ec24bee9f2e47444ecc42beedb601148283/dist/index.esm.d.ts#L56)
 
 ***
 
@@ -320,4 +320,4 @@ dist/index.esm.d.ts:56
 
 #### Source
 
-dist/index.esm.d.ts:48
+[dist/index.esm.d.ts:48](https://github.com/supercat1337/utils/blob/29436ec24bee9f2e47444ecc42beedb601148283/dist/index.esm.d.ts#L48)
