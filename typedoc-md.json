@@ -1,0 +1,6 @@
+{
+    "out": "./docs-md",
+    "plugin": ["typedoc-plugin-markdown"],
+    "entryPoints": ["./index.js"],
+    "entryPointStrategy": "expand"
+}

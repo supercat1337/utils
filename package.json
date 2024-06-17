@@ -1,0 +1,37 @@
+{
+  "name": "@supercat1337/utils",
+  "version": "1.0.0",
+  "description": "Utilities for binding reactive variables to DOM elements and other usefull functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "c8 ava",
+    "__build": "node scripts/build.js",
+    "build": "npm run build_esm && npm run build_esm_min && npm run create_types && npm run docs && npm run docs-md",
+    "build_esm": "rollup ./src/index.js --file ./dist/index.esm.js --format es",
+    "build_esm_min": "esbuild --minify --bundle --platform=neutral --legal-comments=none ./dist/index.esm.js --outfile=./dist/index.esm.min.js",
+    "build_esm_bundle": "rollup ./src/index.js --file ./dist/index.bundle.esm.js --format es -p ./node_modules/@rollup/plugin-node-resolve",
+    "build_esm_bundle_min": "esbuild --minify --bundle --platform=neutral --legal-comments=none ./src/index.js --outfile=./dist/index.bundle.esm.min.js",
+    "create_types": "npx -p typescript tsc --project my.tsconfig.types.json",
+    "docs": "typedoc --tsconfig \"my.tsconfig.docs.json\" --options \"typedoc.json\"",
+    "docs-md": "typedoc --tsconfig \"my.tsconfig.docs.json\" --options \"typedoc-md.json\""
+  },
+  "author": "Supercat",
+  "license": "MIT",
+  "type": "module",
+  "moduleResolution": "node",
+  "dependencies": {
+    "@supercat1337/store": "^1.0.23"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "@types/node": "^20.14.2",
+    "ava": "^6.1.3",
+    "c8": "^10.1.2",
+    "esbuild": "^0.21.5",
+    "rollup": "^4.18.0",
+    "typedoc": "^0.25.13",
+    "typedoc-plugin-markdown": "^4.0.3",
+    "typedoc-plugin-missing-exports": "^2.3.0",
+    "typescript": "^5.4.5"
+  }
+}

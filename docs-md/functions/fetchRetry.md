@@ -1,0 +1,29 @@
+[**@supercat1337/utils**](../README.md) • **Docs**
+
+***
+
+[@supercat1337/utils](../README.md) / fetchRetry
+
+# Function: fetchRetry()
+
+> **fetchRetry**(`url`, `fetchOptions`?, `delay`?, `tries`?): `Promise`\<`Response`\>
+
+A version of the fetch function that allows you to specify the number of retries if the connection is lost
+
+## Parameters
+
+• **url**: `RequestInfo` \| `URL`
+
+• **fetchOptions?**: `RequestInit`
+
+• **delay?**: `number`
+
+• **tries?**: `number`
+
+## Returns
+
+`Promise`\<`Response`\>
+
+## Source
+
+dist/index.esm.d.ts:196
