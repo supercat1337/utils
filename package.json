@@ -2,6 +2,11 @@
   "name": "@supercat1337/utils",
   "version": "1.0.0",
   "description": "Utilities for binding reactive variables to DOM elements and other usefull functions",
+  "repository": {
+    "type": "git",
+    "directory": "https://github.com/supercat1337/utils.git"
+  },
+  "homepage": "https://github.com/supercat1337/utils",
   "main": "index.js",
   "scripts": {
     "test": "c8 ava",
